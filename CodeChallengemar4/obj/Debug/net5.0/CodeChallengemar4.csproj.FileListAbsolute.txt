@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\CodeChallengemar4\CodeChallengemar4\bin\Debug\net5.0\CodeChallengemar4.exe
+C:\Users\user\source\repos\CodeChallengemar4\CodeChallengemar4\bin\Debug\net5.0\CodeChallengemar4.deps.json
+C:\Users\user\source\repos\CodeChallengemar4\CodeChallengemar4\bin\Debug\net5.0\CodeChallengemar4.runtimeconfig.json
+C:\Users\user\source\repos\CodeChallengemar4\CodeChallengemar4\bin\Debug\net5.0\CodeChallengemar4.runtimeconfig.dev.json
+C:\Users\user\source\repos\CodeChallengemar4\CodeChallengemar4\bin\Debug\net5.0\CodeChallengemar4.dll
+C:\Users\user\source\repos\CodeChallengemar4\CodeChallengemar4\bin\Debug\net5.0\CodeChallengemar4.pdb
+C:\Users\user\source\repos\CodeChallengemar4\CodeChallengemar4\obj\Debug\net5.0\CodeChallengemar4.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CodeChallengemar4\CodeChallengemar4\obj\Debug\net5.0\CodeChallengemar4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CodeChallengemar4\CodeChallengemar4\obj\Debug\net5.0\CodeChallengemar4.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CodeChallengemar4\CodeChallengemar4\obj\Debug\net5.0\CodeChallengemar4.AssemblyInfo.cs
+C:\Users\user\source\repos\CodeChallengemar4\CodeChallengemar4\obj\Debug\net5.0\CodeChallengemar4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CodeChallengemar4\CodeChallengemar4\obj\Debug\net5.0\CodeChallengemar4.dll
+C:\Users\user\source\repos\CodeChallengemar4\CodeChallengemar4\obj\Debug\net5.0\refint\CodeChallengemar4.dll
+C:\Users\user\source\repos\CodeChallengemar4\CodeChallengemar4\obj\Debug\net5.0\CodeChallengemar4.pdb
+C:\Users\user\source\repos\CodeChallengemar4\CodeChallengemar4\obj\Debug\net5.0\CodeChallengemar4.genruntimeconfig.cache
+C:\Users\user\source\repos\CodeChallengemar4\CodeChallengemar4\obj\Debug\net5.0\ref\CodeChallengemar4.dll
